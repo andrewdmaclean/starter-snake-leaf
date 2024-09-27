@@ -24,9 +24,9 @@ function info()
     response()->json([
         'apiversion' => '1',
         'author' => '',       // TODO: Your Battlesnake Username
-        'color' => '#888888', // TODO: Choose color
-        'head' => 'default',  // TODO: Choose head
-        'tail' => 'default',  // TODO: Choose tail
+        'color' => '#04b558', // TODO: Choose color
+        'head' => 'silly',  // TODO: Choose head
+        'tail' => 'bolt',  // TODO: Choose tail
     ]);
 }
 
