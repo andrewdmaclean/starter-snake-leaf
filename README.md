@@ -4,6 +4,8 @@ An unofficial Battlesnake template written in PHP using the Leaf PHP framework. 
 
 This project is a great starting point for anyone wanting to program their first Battlesnake in PHP. It can be run locally or easily deployed to a cloud provider of your choosing. See the [Battlesnake API Docs](https://docs.battlesnake.com/api) for more detail.
 
+[![Run on Replit](https://repl.it/badge/github/ndrewdmaclean/starter-snake-leaf-php)](https://replit.com/@andrewdmaclean/starter-snake-leaf-php)
+
 ## Technologies Used
 
 This project uses [PHP](https://www.php.net/) and [Leaf PHP](https://leafphp.dev/).
